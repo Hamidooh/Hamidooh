@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=karanja-254" alt="visitor badge"/></p>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Hamidooh" alt="visitor badge"/></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=STEVE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=HERMAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am STEVE! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
