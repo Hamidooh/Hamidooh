@@ -6,7 +6,6 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am HERMAN! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
-<img src="demo_small.gif" width="100%" alt="Demo animation">
 
 # 🚀 About Me: 
 # Full-Stack Web Developer <br>
