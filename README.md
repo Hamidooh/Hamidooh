@@ -11,6 +11,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Hamidooh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img
+    src="https://komarev.com/ghpvc/?username=Hamidooh&label=Profile%20views&color=0e75b6&style=flat"
+    alt="perisicnikola37 profile views"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Hamidooh/Hamidooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
