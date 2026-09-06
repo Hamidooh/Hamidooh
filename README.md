@@ -1,4 +1,12 @@
 ## Hi there 👋
+
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=karanja-254" alt="visitor badge"/></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=STEVE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am STEVE! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
+
+<img src="demo_small.gif" width="100%" alt="Demo animation">
 # 💫 About Me: 
 # Full-Stack Web Developer <br>
 🔭 I’m currently working on: building a full-stack e-commerce platform to deepen my knowledge of React and Node.js.<br>👯 I’m looking to: collaborate on open-source projects, especially those built with TypeScript, Python. .<br>🤝 I’m looking for help with: finding beginner-friendly open-source issues to tackle and learning best practices for collaborative development.<br>🌱 I’m currently learning: modern web development best practices and design patterns.<br>💬 Ask me about: my journey into full-stack development<br>⚡ Fun fact: My favorite way to learn is by breaking things and figuring out how to put them back together.
