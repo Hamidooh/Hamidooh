@@ -11,7 +11,7 @@
 # Full-Stack Web Developer <br>
 🔭 I’m currently working on: building a full-stack e-commerce platform to deepen my knowledge of React and Node.js.<br>👯 I’m looking to: collaborate on open-source projects, especially those built with TypeScript, Python. .<br>🤝 I’m looking for help with: finding beginner-friendly open-source issues to tackle and learning best practices for collaborative development.<br>🌱 I’m currently learning: modern web development best practices and design patterns.<br>💬 Ask me about: my journey into full-stack development<br>⚡ Fun fact: My favorite way to learn is by breaking things and figuring out how to put them back together.
 
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/06de0a84-8e65-4814-b020-03d02362e7cd" />
+<img width="354" height="200" alt="buggs" src="https://github.com/user-attachments/assets/68c879eb-b01c-4f7e-afa4-8073085a1e9c" />
 
 
 # 💻 Tech Stack:
