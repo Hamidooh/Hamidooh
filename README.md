@@ -4,8 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=HERMAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am HERMAN! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Ea[...]
-
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am HERMAN! 
 
 <div align="center">
 
