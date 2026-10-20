@@ -61,9 +61,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Contribution snake -->
-<p align="center">
-  <a href="https://github.com/Hamidooh">
-    <img src="https://raw.githubusercontent.com/Hamidooh/Hamidooh/main/github-contribution-snake.svg" alt="GitHub contribution snake" width="100%" />
-  </a>
-</p>
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamidooh/Hamidooh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamidooh/Hamidooh/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Hamidooh/Hamidooh/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
