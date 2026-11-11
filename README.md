@@ -71,13 +71,9 @@ Here are some ideas to get you started:
 </div>
 
 
----
-
-### 📊 GitHub Activity & Gamer Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamidooh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Hamidooh's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidooh&theme=tokyonight&hide_border=true&background=0D1117" alt="Hamidooh's GitHub Streak" />
 </p>
-
----
