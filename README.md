@@ -16,6 +16,7 @@
 
 # 🚀 About Me: 
 # Full-Stack Web Developer <br>
+🌐 **Live Portfolio:** [https://hamidooh.github.io/portfolio/](https://hamidooh.github.io/portfolio/)<br>
 🔭 I’m currently working on: building a full-stack e-commerce platform to deepen my knowledge of React and Node.js.<br>👯 I’m looking to: collaborate on open-source projects, especially those built with TypeScript, Python, and open-source communities. <br>🌱 I’m currently learning: modern web development best practices and design patterns.<br>💬 Ask me about: my journey into full-stack development<br>⚡ Fun fact: My favorite way to learn is by breaking things and figuring out how to put them back together.
 
 
