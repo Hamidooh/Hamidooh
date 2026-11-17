@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamidooh&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Hamidooh?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/Hamidooh?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
+![Stars](https://img.shields.io/github/stars/Hamidooh?type=user&style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
 
 </div>
 
@@ -72,9 +72,8 @@ Here are some ideas to get you started:
 </div>
 
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Gamer Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamidooh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Hamidooh's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidooh&theme=tokyonight&hide_border=true&background=0D1117" alt="Hamidooh's GitHub Streak" />
 </p>
