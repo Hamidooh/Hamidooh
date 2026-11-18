@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### 📊 GitHub Activity & Gamer Stats
+### 📊 GitHub Activity & Gamer Stats.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidooh&theme=tokyonight&hide_border=true&background=0D1117" alt="Hamidooh's GitHub Streak" />
